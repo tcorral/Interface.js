@@ -21,13 +21,13 @@ Interface.js
 
 Versions:
 
-* Development: 3,35 kb - [Download](http://tcorral.github.com/Interface/versions/Interface.js)
-* Minimized: 871 bytes - [Download](http://tcorral.github.com/Interface/versions/Interface.min.js)
-* Gzipped: 449 bytes - [Download](http://tcorral.github.com/Interface/versions/Interface.min.js.gz)
+* Development: 3,35 kb - [Download](http://tcorral.github.com/Interface.js/versions/Interface.js)
+* Minimized: 871 bytes - [Download](http://tcorral.github.com/Interface.js/versions/Interface.min.js)
+* Gzipped: 449 bytes - [Download](http://tcorral.github.com/Interface.js/versions/Interface.min.js.gz)
 
-[API documentation](http://tcorral.github.com/Interface/examples_and_documents/jsdoc/index.html)
+[API documentation](http://tcorral.github.com/Interface.js/examples_and_documents/jsdoc/index.html)
 
-[Examples](http://tcorral.github.com/Interface/examples_and_documents/index.html) to see for yourself!
+[Examples](http://tcorral.github.com/Interface.js/examples_and_documents/index.html) to see for yourself!
 
 ## Usage
 
@@ -100,9 +100,9 @@ Allowing Abstrac class:
 
 ## Documentation
 
-[API documentation](http://tcorral.github.com/Interface/examples_and_documents/jsdoc/index.html)
+[API documentation](http://tcorral.github.com/Interface.js/examples_and_documents/jsdoc/index.html)
 
-[Examples](http://tcorral.github.com/Interface/examples_and_documents/index.html) to see for yourself!
+[Examples](http://tcorral.github.com/Interface.js/examples_and_documents/index.html) to see for yourself!
 
 
 ## License
