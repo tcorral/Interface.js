@@ -19,6 +19,12 @@ Interface.js
 * Must be used to create new classes designing to the interface.
 * Allows to add behaviour using interfaces.
 
+Versions:
+
+* Development: 3,35 kb - [Download](http://tcorral.github.com/Interface.js/versions/Interface.js)
+* Minimized: 871 bytes - [Download](http://tcorral.github.com/Interface.js/versions/Interface.min.js)
+* Gzipped: 449 bytes - [Download](http://tcorral.github.com/Interface.js/versions/Interface.min.js.gz)
+
 [API documentation](http://tcorral.github.com/Interface.js/examples_and_documents/jsdoc/index.html)
 
 [Examples](http://tcorral.github.com/Interface.js/examples_and_documents/index.html) to see for yourself!
