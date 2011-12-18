@@ -18,6 +18,10 @@ Interface.js
 
 * Must be used to create new classes designing to the interface.
 * Allows to add behaviour using interfaces.
+* Allows to create Abstract class.
+* Framework agnostic.
+* Small library less than 0.5 kb when gzipped.
+* More easy to implement Object Oriented Programming Paradigm.
 
 Versions:
 
