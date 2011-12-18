@@ -1,0 +1,1 @@
+var Displayable = new Interface('display');
