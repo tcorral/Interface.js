@@ -1,0 +1,1 @@
+var Flyable = new Interface('fly');
